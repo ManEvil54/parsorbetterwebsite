@@ -1,0 +1,9 @@
+backendId: parsorbetterwebsite
+runConfig:
+  serverSide: true
+
+build:
+  command: npm run build
+
+run:
+  command: npm run start
